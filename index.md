@@ -34,3 +34,14 @@ Use the `#` symbol to create headings. The number of `#` symbols indicates the h
 # H1
 ## H2
 ### H3
+```
+
+## Example Code: JavaScript Function
+
+```javascript
+function greet(name) {
+    return `Hello, ${name}!`;
+}
+
+console.log(greet('World')); // Output: Hello, World!
+
