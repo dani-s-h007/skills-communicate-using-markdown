@@ -2,6 +2,8 @@
 
 Markdown is a lightweight markup language that enables you to format text easily and efficiently. This document provides an overview of essential Markdown syntax for effective communication.
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ## Table of Contents
 
 1. [Introduction to Markdown](#introduction-to-markdown)
